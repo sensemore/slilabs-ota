@@ -12,8 +12,9 @@ There are almost infinte number of scenarios while doing OTA process. I tried to
 - Validate connectivity and mac address
 - Begin OTA
 - Upload with 'WRITE_TYPE_NO_RESPONSE'
+- Requesting required android permissions
 
-
+![as](Sceenshot.jpeg)
 # TODO
 
 - Validating .gbl file
