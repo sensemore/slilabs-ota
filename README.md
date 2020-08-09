@@ -1,6 +1,7 @@
 # slilabs-ota
-OTA firmware update application for slilabs BLE 
+OTA firmware update android application for slilabs BLE 
 
+https://github.com/SiliconLabs/EFRConnect-android used as reference to write this application example. 
 
 Example application of OTA firmware upload for slilabs BLE devices.
 
